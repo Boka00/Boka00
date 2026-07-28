@@ -60,7 +60,8 @@ A responsive client relationship management app built with vanilla HTML5, CSS3, 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boka00" alt="Boka00's GitHub streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Boka00&show_icons=true&theme=default" alt="Boka00's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boka00&starting_year=2025" alt="Boka00's GitHub streak" height="165"/>
 </p>
 
 ---
