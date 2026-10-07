@@ -37,7 +37,7 @@
 A React-based web application for managing links. Features include robust search capabilities, tag filtering, pinning, archiving, and light/dark theme toggling with LocalStorage data persistence.
 🔗 [Repository](https://github.com/Boka00/10X-Bookmark-Manager)
 
-**[Interactive React Quiz](#)** *(Add your repository link here)*
+**[Interactive React Quiz](https://github.com/Boka00/React-Quiz)**
 A comprehensive 150-question React master quiz application featuring dynamic topic selection, immediate answer feedback, and detailed explanatory notes.
 
 **[10X CRM](https://github.com/Boka00/10x-CRM-Boris-Mkrtichiani)**
