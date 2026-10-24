@@ -33,16 +33,12 @@
 
 ### 🚀 Featured Projects
 
-**[10X Bookmark Manager](https://github.com/Boka00/10X-Bookmark-Manager)**
-A React-based web application for managing links. Features include robust search capabilities, tag filtering, pinning, archiving, and light/dark theme toggling with LocalStorage data persistence.
-🔗 [Repository](https://github.com/Boka00/10X-Bookmark-Manager)
-
-**[Interactive React Quiz](https://github.com/Boka00/React-Quiz)**
-A comprehensive 150-question React master quiz application featuring dynamic topic selection, immediate answer feedback, and detailed explanatory notes.
-
 **[10X CRM](https://github.com/Boka00/10x-CRM-Boris-Mkrtichiani)**
 A responsive client relationship management app built with vanilla HTML5, CSS3, and modern JavaScript (ES6+). Features full client CRUD, List and Kanban board views with drag-and-drop, live dashboard stats, search/filter/sort, notes, CSV export, dark/light theming, and auth with session persistence.
 🔗 [Live Demo](https://10x-crm-app.vercel.app/) · [Repository](https://github.com/Boka00/10x-CRM-Boris-Mkrtichiani)
+
+**[Interactive React Quiz](https://github.com/Boka00/React-Quiz)**
+A comprehensive 150-question React master quiz application featuring dynamic topic selection, immediate answer feedback, and detailed explanatory notes.
 
 **[REST Countries API](https://github.com/Boka00/REST-Countries-API)**
 A front-end app that consumes the REST Countries API to browse and search countries, with a dedicated details page for each one.
