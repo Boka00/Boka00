@@ -1,82 +1,44 @@
-<h1 align="center">Hi there, I'm Boka 👋</h1>
-<h3 align="center">Front-End / React Developer focused on building responsive, clean, and user-friendly web interfaces</h3>
+# Hi there, I'm Boris (Boka) 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Boka00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### Front-End / React Developer
+I build clean, modular, and responsive web applications with a strong focus on component architecture, type safety, and intuitive user interfaces.
 
 ---
 
-### 🧑‍💻 About Me
+### 🛠️ Tech Stack & Tools
 
-- 🔨 I build interactive web applications with **React, JavaScript, Tailwind CSS, and SCSS**
-- 📚 Focused on state management, custom hooks, and integrating REST APIs
-- 🎓 Studied Information Technology at Georgian Technical University (GTU) and 10X College
-- 💼 Actively building portfolio-quality projects and available for custom front-end freelance services
-- 🎯 I care about responsive layouts, clean architecture, and modern UI/UX
+**Languages & Markup**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
----
+**Frameworks, Libraries & Styling**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-172B4D?style=for-the-badge&logo=formik&logoColor=white)
+![Yup](https://img.shields.io/badge/Yup_Validation-4B5563?style=for-the-badge)
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Workflow & Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
 ---
 
 ### 🚀 Featured Projects
 
-**[10X CRM](https://github.com/Boka00/10x-CRM-Boris-Mkrtichiani)**
-A responsive client relationship management app built with vanilla HTML5, CSS3, and modern JavaScript (ES6+). Features full client CRUD, List and Kanban board views with drag-and-drop, live dashboard stats, search/filter/sort, notes, CSV export, dark/light theming, and auth with session persistence.
-🔗 [Live Demo](https://10x-crm-app.vercel.app/) · [Repository](https://github.com/Boka00/10x-CRM-Boris-Mkrtichiani)
-
-**[Interactive React Quiz](https://github.com/Boka00/React-Quiz)**
-A comprehensive 150-question React master quiz application featuring dynamic topic selection, immediate answer feedback, and detailed explanatory notes.
-
-**[REST Countries API](https://github.com/Boka00/REST-Countries-API)**
-A front-end app that consumes the REST Countries API to browse and search countries, with a dedicated details page for each one.
-🔗 [Live Demo](https://boka00.github.io/REST-Countries-API/) · [Repository](https://github.com/Boka00/REST-Countries-API)
-
-**[Rewind](https://github.com/Boka00/Rewind)**
-A front-end fundamentals review project focused on strengthening HTML, CSS, and SCSS basics through practice.
-🔗 [Live Demo](https://boka00.github.io/Rewind/) · [Repository](https://github.com/Boka00/Rewind)
+| Project | Tech Stack | Key Features |
+| :--- | :--- | :--- |
+| **🔖 10X Bookmark Manager** | `React` `TypeScript` `Tailwind CSS` `Formik` `Yup` | Link management, case-insensitive tag aggregation, search/tag filtering, pin/archive states, dark/light theme. |
+| **📊 10X CRM** | `React` `JavaScript` `SCSS/CSS` `DummyJSON API` | Full CRUD, List & Kanban drag-and-drop views, live KPI metrics, call timers, CSV export, dark/light theme. |
+| **⚡ React Master Quiz** | `React` `JavaScript` `CSS Modules` | 150-question interactive quiz, Kahoot-style visual feedback, topic filtering, custom practice modes. |
+| **🌍 REST Countries Explorer** | `React` `REST API` `CSS/SCSS` | Country stats browser, region filtering, live search, dark/light theme switching. |
+| **🎨 10x Markup & Rewind** | `HTML5` `SCSS` `JavaScript` | Multi-page responsive layouts, semantic markup, and advanced SCSS architecture. |
 
 ---
 
-### 🎯 Goals
-
-- Continue mastering React and modern front-end architectures
-- Deliver high-quality freelance development services 
-- Improve code quality, structural patterns, and seamless UI implementation
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Boka00&show_icons=true&theme=default" alt="Boka00's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boka00&starting_year=2025" alt="Boka00's GitHub streak" height="165"/>
-</p>
-
----
-
-### 📫 Contact
-
-<p align="left">
-  <a href="https://github.com/Boka00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/boris-mkrtichiani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:boka.mkrtichiani@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Boris_Mkrtichiani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boris-mkrtichiani/)
